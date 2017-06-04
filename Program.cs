@@ -74,12 +74,14 @@ namespace Alphabat8x8
             char ch=Console.ReadLine()[0];
             Console.Clear();
             int len=name.Length;
-            int x=0,y=0,w=1,z=0,k=1;
+            int x=0,y=0,w=1,z=0,k=1;//x and w for horizontal.
+            //y and k for vertical.
+            // z is for number of letter.
             for(z=0;z<len;z++,w+=9)
              {
                 if(w>70) {  w=2;   k+=9;   }
                 
-                if(k>20) {    Console.Write("Console space full"); Console.ReadKey();    return;    }
+                if(k>18) {    Console.Write("Console space full"); Console.ReadKey();    return;    }
 
                 cha=getbin(name[z]);
     
