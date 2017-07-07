@@ -1,0 +1,8 @@
+/home/bhupesh/Documents/dotnet core/StarText/bin/Debug/netcoreapp1.1/StarText.deps.json
+/home/bhupesh/Documents/dotnet core/StarText/bin/Debug/netcoreapp1.1/StarText.runtimeconfig.json
+/home/bhupesh/Documents/dotnet core/StarText/bin/Debug/netcoreapp1.1/StarText.runtimeconfig.dev.json
+/home/bhupesh/Documents/dotnet core/StarText/bin/Debug/netcoreapp1.1/StarText.dll
+/home/bhupesh/Documents/dotnet core/StarText/bin/Debug/netcoreapp1.1/StarText.pdb
+/home/bhupesh/Documents/dotnet core/StarText/obj/Debug/netcoreapp1.1/StarText.AssemblyInfo.cs
+/home/bhupesh/Documents/dotnet core/StarText/obj/Debug/netcoreapp1.1/StarText.dll
+/home/bhupesh/Documents/dotnet core/StarText/obj/Debug/netcoreapp1.1/StarText.pdb
